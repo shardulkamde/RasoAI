@@ -274,8 +274,3 @@ AI support was used for:
 - Writing professional documentation
 
 All generated code was reviewed, tested, and manually modified to ensure correctness and successful execution.
-
----
-
-# Author
-Nikhil Kota
